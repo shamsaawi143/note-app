@@ -21,7 +21,7 @@ note-app/
 📸 Preview
 App Screenshot
 
-![Note App Screenshot](project-four/assets/Screenshot.png)
+![Note App Screenshot](assets/Screenshot.png)
 
 👉 On GitHub it will render like this:
 
