@@ -20,7 +20,8 @@ note-app/
 └── README.md
 📸 Preview
 App Screenshot
-![Note App Screenshot](project-four/Screenshot.png)
+
+![Note App Screenshot](project-four/assets/Screenshot.png)
 
 👉 On GitHub it will render like this:
 
